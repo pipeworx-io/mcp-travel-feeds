@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-travel-feeds",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Travel Feeds MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-8a7fad9cf2f2fe823e3f29e01c0f6f5528399ec5de864d5164c21591173264a4",
-    "sourceCommit": "b0fb3c31386cf0256dcf1e2f1b3440435a87ec35"
+    "sourceHash": "v1-04434c9b1f3dfd17d2224935bb6b67ee35cad5f7dedfd46f46a108ee51ae6ded",
+    "sourceCommit": "66a0692f029179984440cef6938cba7fdd41d66d"
   }
 }
