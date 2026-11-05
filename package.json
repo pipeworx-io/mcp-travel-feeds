@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-travel-feeds",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Travel Feeds MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "travel-feeds",
     "gatewaySlug": "travel-feeds",
-    "sourceHash": "v1-12944887ff0f5881691b49ce4be18ad2d5b0e68e560fa6ce05f2cfceaf87e402",
-    "sourceCommit": "f47d581679e1e887373df51ba623f891fbe4c464"
+    "sourceHash": "v1-c88015d09ce4fa177e7f842106666d857696c3826279fef86f1d1e16ac9b04e2",
+    "sourceCommit": "868e119d526d5409447b7ee2149afba7eb9d2593"
   }
 }
